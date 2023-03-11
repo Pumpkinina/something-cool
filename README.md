@@ -1,2 +1,2 @@
-# something-cool
+# something cool
 very cool
